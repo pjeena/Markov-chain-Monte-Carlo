@@ -6,6 +6,6 @@ Monte Carlo code for simulating spins on a atomic lattice. An atomic lattice is 
 structure. In physics, a spin is an intrinsic property of elementary particles(such as electron). Mathematically it is just 
 a vector. So, we arrange lots of these spins on a structure of our choice like below.
 
-![image](Markov-chain-Monte-Carlo/id18089.jpg "")
+![id18089](https://user-images.githubusercontent.com/56345075/200860318-6918c70c-7ac4-4003-8823-d0b15775b998.jpg)
 
 
